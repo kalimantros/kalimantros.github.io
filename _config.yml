@@ -6,6 +6,7 @@ baseurl: "" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
   Currently an Economics & Business Student at University of Milano-Bicocca, Italy.
   <br>
+  <br>email me at <a href="mailto:zanettin.ale@gmail.com">zanettin.ale@gmail.com</a>
   <br>Twitter <a href="https://twitter.com/sandrozanettin">@sandrozanettin</a>
   <br>LinkedIn <a href="https://www.linkedin.com/in/alezanettin/">/alezanettin</a>
 

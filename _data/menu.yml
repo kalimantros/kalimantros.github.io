@@ -16,10 +16,15 @@ entries:
     entries:
       - title: Superclass - D. Rothkopf
       - title: Baghdad Business School - H. Bond Gunning
+      - title: Enlightenment Now - S. Pinker
+      - title: Io sono il potere - Anonimo
+      - title: Dune - F. Herbert
+      - title: See all books...
+        url: books.html
 
   - title: <h3>Recent Posts</h3>
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: See all posts...
       show_more_url: archive.html

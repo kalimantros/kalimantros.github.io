@@ -4,7 +4,10 @@ email: zanettin.ale@gmail.com # email of site's author
 url: https://kalimantros.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
-  
+  Currently an Economics & Business Student at University of Milano-Bicocca.
+  <br>
+  <br>Twitter <a href="https://twitter.com/sandrozanettin">@sandrozanettin</a>
+  <br>LinkedIn <a href="https://www.linkedin.com/in/alezanettin/">/alezanettin</a>
 
 permalink: # /:slug.html
 

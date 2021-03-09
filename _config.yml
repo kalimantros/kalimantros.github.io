@@ -27,7 +27,7 @@ url: "https://kalimantros.github.io" # the base hostname & protocol for your sit
 twitter_username: sandrozanettin
 
 # Build settings
-theme: minima
+theme: no-style-please
 plugins:
   - jekyll-feed
 

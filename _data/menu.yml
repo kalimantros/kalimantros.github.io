@@ -3,18 +3,16 @@
 
 entries:
 
-  - title: <h3>What's ahead</h3>
+  - title: <h3>Ideas & Thoughts</h3>
     entries:
+      - title: On Modernity
+        url: 2021/03/09/On-Modernity
       - title: DUNKIN' in Italy
-        entries:
-          - title: The Donuts Opportunity
-            url: about
-      - title: Nuova Repubblica
-        entries:
-          - title: The way forward for Italy and Europe
-            url: about 
+        url: 2021/03/09/DUNKIN-in-Italy
+      - title: New Republic
+        url: 2021/03/09/New-Republic
 
-  - title: <h3>Ideas</h3>
+  - title: <h3>Posts</h3>
     post_list:
       limit: 10
       show_more: true

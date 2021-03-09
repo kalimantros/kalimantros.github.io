@@ -2,7 +2,7 @@ title: Alessandro Zanettin # name of the site
 author: Alessandro Zanettin # name of site's author
 email: zanettin.ale@gmail.com # email of site's author
 url: https://kalimantros.github.io # root address of the site
-baseurl: "/blog" # subpath of the site, e.g. "/blog"
+baseurl: "/index" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
   Alessandro Zanettin's blog
 

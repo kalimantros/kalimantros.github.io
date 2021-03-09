@@ -19,13 +19,13 @@ body[a="dark"] { @include dark-appearance; }
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-html, body { background: white; }
+html, body { background: gray; }
 
 html { height: 100%; }
 
 body {
-  color: black;
-  font-family: monospace;
+  color: white;
+  font-family: Helvetica;
   font-size: 1.3rem;
   line-height: 1.3;
   margin: 0;
@@ -33,6 +33,8 @@ body {
 }
 
 .post-meta { text-align: right; }
+
+a { color: white; }
 
 h2, h3, h4, h5, h6 { margin-top: 3rem; }
 

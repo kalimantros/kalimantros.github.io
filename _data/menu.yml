@@ -12,9 +12,14 @@ entries:
       - title: New Republic
         url: 2021/03/09/New-Republic
 
-  - title: <h3>Posts</h3>
+  - title: <h3>Recent Readings</h3>
+    entries:
+      - title: Superclass - D. Rothkopf
+      - title: Baghdad Business School - H. Bond Gunning
+
+  - title: <h3>Recent Posts</h3>
     post_list:
-      limit: 10
+      limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html

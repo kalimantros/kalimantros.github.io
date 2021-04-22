@@ -3,28 +3,24 @@
 
 entries:
 
-  - title: <h3>Ideas, Thoughts & Projects</h3>
+  - title: <h3>Ideas & Thoughts</h3>
     entries:
-      - title: A Donuts Shops Chain in Italy
+      - title: Vision, Mission & Process
       - title: Modernity, Technology & the Future
         url: 2021/03/09/Modernity,-Technology-&-the-Future
-      - title: Future Food & Supply Chain
-      - title: Nuova Repubblica - A Political Project for Italy
       - title: A Road to Cosmocracy - Neoconservatism & Liberal Internationalism
         url: 2021/03/12/A-Road-to-Cosmocracy
       - title: The Corporation as a Globalization Catalyst
       - title: Virtualization & Conquest of Space - The Two Vectors of the Human
         url: 2021/03/11/Virtualization-&-Conquest-of-Space
-      - title: Scattered Notes for the Education of the Elite
-        url: 2021/03/11/Scattered-Notes-for-the-Education-of-the-Elite
       - title: The Linear Consensus - Promoting the Development of Advanced Knowledge-Centric Societies
       - title: The Enemies of Reality & the Battle for the Minds
         url: 2021/03/12/The-Enemies-of-Reality-&-the-Battle-for-the-Minds
-      - title: The Three Levels of the Political Game
-        url: 2021/03/15/The-Three-Levels-of-the-Political-Game
 
-  - title: <h3>Recent Readings</h3>
+  - title: <h3>Scattered Notes for the Education of the Elite</h3>
     entries:
+      - title: The Innovator's Dilemma - C. M. Christensen
+      - title: The Age of Em - R. Hanson
       - title: Gödel, Escher, Bach - D. Hofstadter
       - title: Good Profit - C.G. Koch
       - title: The Three-Body Problem - C. Liu

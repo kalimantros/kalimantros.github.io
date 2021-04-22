@@ -22,5 +22,9 @@ layout: post
     <li> Neon Genesis Evangelion</li>
     <li> The Anthropic Cosmological Principle</li>
     <li> Tractatus Logico-Philosophicus</li>
+    <li> Sonatine</li>
+    <li> Kid's Return</li>
+    <li> Violent Cops</li>
+    <li> Dune</li>
 </ul>
 </p>
